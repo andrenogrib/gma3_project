@@ -1,0 +1,27 @@
+# Python/cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local/large source artifacts
+*.pdf
+*.zip
+*.docx
+
+# Full-text corpora generated from third-party manuals.
+# Keep these locally and regenerate when needed.
+knowledge/sources/
+knowledge/markdown/combined.md
+knowledge/markdown/documents/
+knowledge/agent/chunks.jsonl
+knowledge/agent/pages.jsonl
+knowledge/agent/pages/
+
+# Raw downloaded maintenance/source mirrors.
+# The repo keeps indexes, notes and source URLs instead.
+knowledge/grandma3_maintenance_sources/act_sources/
+knowledge/grandma3_maintenance_sources/cad/
+knowledge/grandma3_maintenance_sources/extracted_zips/
+knowledge/grandma3_maintenance_sources/german_sources/
+knowledge/grandma3_maintenance_sources/official_ma/
+knowledge/grandma3_maintenance_sources/parts_catalog/

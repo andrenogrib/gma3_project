@@ -1,0 +1,153 @@
+{
+  "generated_at_utc": "2026-04-24T18:28:32Z",
+  "source_dir": "D:/Dropbox/projetos/gma3_project/knowledge/sources/pdfs",
+  "markdown_dir": "D:/Dropbox/projetos/gma3_project/knowledge/markdown/documents",
+  "document_count": 13,
+  "page_count": 3004,
+  "text_chars": 3733023,
+  "records": [
+    {
+      "title": "grandMA3 Quick Start Guide v2-3",
+      "source_pdf": "sources/pdfs/2025_07_29_grandMA3_Quick_Start_Guide_v2-3.pdf",
+      "markdown_path": "documents/2025_07_29_grandMA3_Quick_Start_Guide_v2-3.md",
+      "page_count": 124,
+      "text_chars": 187102,
+      "blank_pages": 0,
+      "errors": [],
+      "source_sha256": "91537b8ead4c29738261cf30f50085287b90d4a983a8ff4bab814303c5e2435e",
+      "status": "SUCCESS"
+    },
+    {
+      "title": "grandma3 User Manual PDF v2.3.1.3",
+      "source_pdf": "sources/pdfs/2025_10_27_grandma3_User_Manual_PDF_v2.3.1.3.pdf",
+      "markdown_path": "documents/2025_10_27_grandma3_User_Manual_PDF_v2.3.1.3.md",
+      "page_count": 2198,
+      "text_chars": 2652591,
+      "blank_pages": 0,
+      "errors": [],
+      "source_sha256": "6345d93edd367c641c5a358ef537912ff33864b21384d45388497f0c35b4b9a4",
+      "status": "SUCCESS"
+    },
+    {
+      "title": "quickmanual grandMA3 consoles",
+      "source_pdf": "sources/pdfs/2026_03_31_quickmanual_grandMA3_consoles.pdf",
+      "markdown_path": "documents/2026_03_31_quickmanual_grandMA3_consoles.md",
+      "page_count": 85,
+      "text_chars": 113434,
+      "blank_pages": 0,
+      "errors": [],
+      "source_sha256": "e32d038364f9df0a51c0a7311d64212dbaf41521eb04a16ec549e8eea05fe94e",
+      "status": "SUCCESS"
+    },
+    {
+      "title": "quickmanual grandma3 Node DIN-Rail",
+      "source_pdf": "sources/pdfs/2026_04_10_quickmanual_grandma3_Node_DIN-Rail.pdf",
+      "markdown_path": "documents/2026_04_10_quickmanual_grandma3_Node_DIN-Rail.md",
+      "page_count": 71,
+      "text_chars": 90670,
+      "blank_pages": 0,
+      "errors": [],
+      "source_sha256": "be172a2170ce7eb17216304097f8f15e9da00387bab1d55cb193b7f1762d3057",
+      "status": "SUCCESS"
+    },
+    {
+      "title": "quickmanual grandma3 Nodes",
+      "source_pdf": "sources/pdfs/2026_04_10_quickmanual_grandma3_Nodes.pdf",
+      "markdown_path": "documents/2026_04_10_quickmanual_grandma3_Nodes.md",
+      "page_count": 62,
+      "text_chars": 84980,
+      "blank_pages": 0,
+      "errors": [],
+      "source_sha256": "7c9a6de70e6e405f75dc5ecb42a21c71544bb539eac911df4c7aeb5b4f0ad14e",
+      "status": "SUCCESS"
+    },
+    {
+      "title": "quickmanual grandMA3 onPC command wing XT",
+      "source_pdf": "sources/pdfs/2026_04_10_quickmanual_grandMA3_onPC_command_wing_XT.pdf",
+      "markdown_path": "documents/2026_04_10_quickmanual_grandMA3_onPC_command_wing_XT.md",
+      "page_count": 63,
+      "text_chars": 83562,
+      "blank_pages": 0,
+      "errors": [],
+      "source_sha256": "ff7d093127c4018de51986cb2f201f4a18f31506f3fa500471fdbe668902fc89",
+      "status": "SUCCESS"
+    },
+    {
+      "title": "quickmanual grandMA3 processing units",
+      "source_pdf": "sources/pdfs/2026_04_10_quickmanual_grandMA3_processing_units.pdf",
+      "markdown_path": "documents/2026_04_10_quickmanual_grandMA3_processing_units.md",
+      "page_count": 57,
+      "text_chars": 77036,
+      "blank_pages": 0,
+      "errors": [],
+      "source_sha256": "74f6c942d6afeb44f6707c0a83320a5708b6d31ab58784e066dc0f90acf6b5f5",
+      "status": "SUCCESS"
+    },
+    {
+      "title": "quickmanual grandMA3 onPC command wing",
+      "source_pdf": "sources/pdfs/2026_04_14_quickmanual_grandMA3_onPC_command_wing.pdf",
+      "markdown_path": "documents/2026_04_14_quickmanual_grandMA3_onPC_command_wing.md",
+      "page_count": 56,
+      "text_chars": 75795,
+      "blank_pages": 0,
+      "errors": [],
+      "source_sha256": "3b9febe91e1c7a5ff530496b08456a66c29893c3df4259507cc3c212fa89b8bf",
+      "status": "SUCCESS"
+    },
+    {
+      "title": "quickmanual grandMA3 rack-unit",
+      "source_pdf": "sources/pdfs/2026_04_14_quickmanual_grandMA3_rack-unit.pdf",
+      "markdown_path": "documents/2026_04_14_quickmanual_grandMA3_rack-unit.md",
+      "page_count": 57,
+      "text_chars": 79433,
+      "blank_pages": 0,
+      "errors": [],
+      "source_sha256": "8e757afd9a4fdfba4356f590b77b21d36e0c0d3cf3fd5807a4ad31f83eda0f28",
+      "status": "SUCCESS"
+    },
+    {
+      "title": "quickmanual grandma3 IO nodes",
+      "source_pdf": "sources/pdfs/2026_04_15_quickmanual_grandma3_IO_nodes.pdf",
+      "markdown_path": "documents/2026_04_15_quickmanual_grandma3_IO_nodes.md",
+      "page_count": 69,
+      "text_chars": 89532,
+      "blank_pages": 0,
+      "errors": [],
+      "source_sha256": "e6720416e2e51cbbed55dc99de95de0df215153c20fc8f7fdeaf7d80e23a02ad",
+      "status": "SUCCESS"
+    },
+    {
+      "title": "quickmanual grandma3 viz-key",
+      "source_pdf": "sources/pdfs/2026_04_15_quickmanual_grandma3_viz-key.pdf",
+      "markdown_path": "documents/2026_04_15_quickmanual_grandma3_viz-key.md",
+      "page_count": 51,
+      "text_chars": 59267,
+      "blank_pages": 0,
+      "errors": [],
+      "source_sha256": "122637f4b41f2cab78636565f1d9868b1601054435283154bc6281fea59ca244",
+      "status": "SUCCESS"
+    },
+    {
+      "title": "quickmanual grandma3 onPC DMX-key and onPC DMX-key starter",
+      "source_pdf": "sources/pdfs/2026_04_16_quickmanual_grandma3_onPC_DMX-key_and_onPC_DMX-key_starter.pdf",
+      "markdown_path": "documents/2026_04_16_quickmanual_grandma3_onPC_DMX-key_and_onPC_DMX-key_starter.md",
+      "page_count": 53,
+      "text_chars": 64540,
+      "blank_pages": 0,
+      "errors": [],
+      "source_sha256": "b0850999db334edc9f4d3f96012edc2d95c53e4f55f3f7b820dbb70d5ee8cf38",
+      "status": "SUCCESS"
+    },
+    {
+      "title": "quickmanual grandMA3 onPC fader wing",
+      "source_pdf": "sources/pdfs/2026_04_17_quickmanual_grandMA3_onPC_fader_wing.pdf",
+      "markdown_path": "documents/2026_04_17_quickmanual_grandMA3_onPC_fader_wing.md",
+      "page_count": 58,
+      "text_chars": 75081,
+      "blank_pages": 0,
+      "errors": [],
+      "source_sha256": "0cd8d7df13a9110de317fcf303d09e66e8d2d76568e5050b27322be221a27023",
+      "status": "SUCCESS"
+    }
+  ]
+}
